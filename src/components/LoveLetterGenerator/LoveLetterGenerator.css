@@ -1,0 +1,16 @@
+/* make the section responsive */
+section {
+    display: block;
+    max-width: 620px;
+    padding: 10px;
+    margin: auto;
+    text-align: left;
+  }
+
+a {
+  color: #61dafb;
+}
+
+.withPadding {
+  padding-left: 25px;
+}
