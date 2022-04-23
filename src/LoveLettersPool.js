@@ -1,6 +1,5 @@
 
 export function generateLoveLetter() {
-    console.log('generateLoveLetter()');
 
     const salutationPool1 = [
         "BELOVED", "DARLING ", "DEAR", "DEAREST", "FANCIFUL", "HONEY"
