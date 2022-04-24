@@ -6,8 +6,8 @@ const LoveLetterGenerator = ({ props } ) => {
 
   return (
     <div className="App-header">
-      <section>
-        <p>{props[0]}</p>
+      <section className="letter-section-container">
+        <p className='titel'>{props[0]}</p>
 
           <span className="withPadding">{props[1]}</span>
           <span>{props[2]}</span>
@@ -17,7 +17,6 @@ const LoveLetterGenerator = ({ props } ) => {
           <span>{props[4]}<br></br></span>
           <span>{props[5]}</span>
         </p>
-
 
       </section>
 

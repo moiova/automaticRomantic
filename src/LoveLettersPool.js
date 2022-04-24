@@ -18,7 +18,7 @@ export function generateLoveLetter() {
       const nounsPool = [
         "ADORATION", "AFFECTION", "AMBITION", "APPETITE", "BEING", "BURNING", "BUZZ",
         "CHARM", "DELIGHT", "DESIRE", "DEVOTION", "EAGERNESS", "ENTHUSIASM", "EXCITEMENT",
-        "FANCY", "FERVOUR", "FONDNESS", "HEART", "HUNGER", "LITTLE LIKING", "LONGING", "LUST", "PASSION", "SOLIDARITY", "THRILL", "WISH"
+        "FANCY", "FONDNESS", "HEART", "HUNGER", "LITTLE LIKING", "LONGING", "LUST", "PASSION", "SOLIDARITY", "THRILL", "WISH"
       ]
       
       const adverbsPool = [
@@ -28,8 +28,8 @@ export function generateLoveLetter() {
       ]
       
       const verbsPool = [
-        "ADORES", "ATTRACTS", "ASPIRES TO", "CLINGS TO", "DESIRES TO", "HOLDS DEAR", "HOPES FOR", "HUNGERS FOR", "LIKES",
-        "LONGS FOR", "LOVES", "LUSTS AFTER", "TEMPTS",
+        "ADORES", "ATTRACTS", "ASPIRES FOR", "CLINGS TO", "DESIRES TO", "HOLDS DEAR", "HOPES FOR", "HUNGERS FOR", "LIKES",
+        "LONGS FOR", "LUSTS AFTER", "TEMPTS",
         "TREASURES", "WISHES FOR"
       ]
       
