@@ -11,11 +11,10 @@ const LoveLetterGenerator = ({ props } ) => {
 
           <span className="withPadding">{props[1]}</span>
           <span>{props[2]}</span>
-          <span>{props[3]}</span>  
 
-        <p>  
-          <span>{props[4]}<br></br></span>
-          <span>{props[5]}</span>
+        <p className="signature">  
+          <span>{props[3]}<br></br></span>
+          <span>{props[4]}</span>
         </p>
 
       </section>
